@@ -10,7 +10,7 @@
 ## API USAGE
 ### 1. API structure
 - app url: ```http:127.0.0.1:3003/sum```
-- method: GET
+- method: POST
 - headers: Yes
 - authentication: yes
 ### 2. Request parameters
